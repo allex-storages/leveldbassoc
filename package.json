@@ -1,0 +1,25 @@
+{
+  "name": "allex_leveldbassocstorage",
+  "version": "1.0.0",
+  "description": "AllexJS storage lib that implements the LevelDBHandler from allex_leveldblib",
+  "main": "index.js",
+  "scripts": {
+    "test": "allex-mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/allex-storages/leveldbassoc.git"
+  },
+  "keywords": [
+    "ecosystem:AllexJS",
+    "storage",
+    "leveldb",
+    "associative"
+  ],
+  "author": "Andrija Petrovic <andrija.hers@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allex-storages/leveldbassoc/issues"
+  },
+  "homepage": "https://github.com/allex-storages/leveldbassoc#readme"
+}
